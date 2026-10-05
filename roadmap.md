@@ -1,3 +1,3 @@
 - [x] Link all eight category services and related product listings to their named pages.
 - [x] Left-align category titles and descriptions; keep descriptions within two lines.
-- [ ] Remaining six product profiles: awaiting user uploads for pages 3–8 and their final profile copy.
+- [ ] Remaining five product profiles: awaiting user uploads for pages 4–8 (page 3 Iron received and wired).
