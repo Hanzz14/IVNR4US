@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep uploaded IV therapy pages as standalone files under `public/` and wire service links directly to their numbered HTML filenames, because the site is delivered as self-contained static pages.
