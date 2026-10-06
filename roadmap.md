@@ -1,3 +1,3 @@
 - [x] Link all eight category services and related product listings to their named pages.
 - [x] Left-align category titles and descriptions; keep descriptions within two lines.
-- [ ] Remaining two product profiles: awaiting user uploads for pages 7-8 (page 6 GSH Push received and wired).
+- [ ] Remaining one product profile: awaiting user upload for page 8 (page 7 Methyl Blue received and wired).
