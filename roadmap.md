@@ -1,3 +1,3 @@
 - [x] Link all eight category services and related product listings to their named pages.
 - [x] Left-align category titles and descriptions; keep descriptions within two lines.
-- [ ] Remaining four product profiles: awaiting user uploads for pages 5-8 (page 4 Sarapin received and wired).
+- [ ] Remaining three product profiles: awaiting user uploads for pages 6-8 (page 5 Phosphatidyl Choline received and wired).
