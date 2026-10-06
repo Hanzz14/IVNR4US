@@ -1,3 +1,3 @@
 - [x] Link all eight category services and related product listings to their named pages.
 - [x] Left-align category titles and descriptions; keep descriptions within two lines.
-- [ ] Remaining one product profile: awaiting user upload for page 8 (page 7 Methyl Blue received and wired).
+- [x] All eight product profiles received and wired (pages 1-8).
