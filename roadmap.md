@@ -1,8 +1,8 @@
 - [x] Link all eight category services and related product listings to their named pages.
 - [x] Left-align category titles and descriptions; keep descriptions within two lines.
 - [x] All eight product profiles received and wired (pages 1-8).
-- [ ] Adjust the nurse photo to show her full forehead.
-- [ ] Replace logos throughout all static pages using the supplied background variants.
-- [ ] Update contacts to the supplied address and phone only; remove social media.
-- [ ] Replace category cards with the product-style service list, retaining all eight services and their links.
-- [ ] Verify changes on desktop and mobile.
+- [x] Adjust the nurse photo to show her full forehead.
+- [x] Replace logos throughout all static pages using the supplied background variants.
+- [x] Update contacts to the supplied address and phone only; remove social media.
+- [x] Replace category cards with the product-style service list, retaining all eight services and their links.
+- [x] Verify changes on desktop and mobile.
