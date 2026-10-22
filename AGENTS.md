@@ -10,3 +10,5 @@
 <!-- LOVABLE:END -->
 
 - Keep uploaded IV therapy pages as standalone files under `public/` and wire service links directly to their numbered HTML filenames, because the site is delivered as self-contained static pages.
+- Keep supplied logo variants in CDN asset pointers and select header variants through the existing solid-nav state; inline the resulting URLs in standalone pages so each static page works independently.
+- Use native details/summary service rows for the category's full eight-service list, matching the product pages while retaining direct numbered-page navigation.
